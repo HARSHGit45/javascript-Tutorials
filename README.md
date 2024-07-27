@@ -14,3 +14,29 @@ This is a simple web application for managing a personal book list. Users can ad
 - HTML
 - CSS (Bootstrap for styling)
 - JavaScript (ES6)
+
+
+
+# Weight Converter
+
+A simple web-based application to convert weights between kilograms, grams, and pounds.
+
+## Features
+
+- Converts weights from:
+  - Kilograms to grams, pounds, and ounces
+  - Grams to kilograms, pounds, and ounces
+  - Pounds to kilograms, grams, and ounces
+
+## Usage
+
+1. Choose the input unit (Kilograms, grams, pounds).
+2. Enter the weight to be converted.
+3. View the converted weights displayed below.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
